@@ -1,11 +1,5 @@
 # AI Contribution Log — SLE-4
 
-**Course:** 02AML204 – Introduction to Artificial Intelligence  
-**Student:** Mahamadsiddik Mahamadsharif Mulla  
-**PRN:** 25UAM054  
-**Division:** A  
-**Project context:** README and documentation connecting the submitted SLE-1, SLE-2, and SLE-3 work.
-
 ## Purpose
 This log records the use of AI assistance while preparing the SLE-4 README and contribution documentation. It distinguishes AI-assisted tasks from the work described as personally completed in the earlier SLE reports.
 
